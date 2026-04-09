@@ -6,6 +6,7 @@
 - **React Router**: Gerenciamento de rotas e navegação entre páginas da aplicação de forma declarativa.
 - **CVA (Class Variance Authority)**: Utilizado para gerenciamento dinâmico e composição de classes CSS, facilitando a customização de componentes.
 - **Tailwind CSS**: Framework utilitário para estilização rápida e responsiva dos componentes, promovendo produtividade e consistência visual.
+- **TypeScript**: Linguagem que adiciona tipagem estática ao JavaScript, proporcionando maior segurança, produtividade e manutenção do código.
 
 ## Sobre a Todo List
 
